@@ -1,9 +1,15 @@
 .container {
-background-color: rgb(179, 219, 219);
+background-colo
+text-align: center;
 }
 .row {
-  backround-color: blueviolet;  
+  text-align: center;
 }
-.col {
+.c sol3 {
     color: rgb(0, 0, 0);
 }
+.col s6 {
+  color: rgb(119, 25, 25);
+}
+
+
