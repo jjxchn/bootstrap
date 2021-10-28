@@ -1,6 +1,6 @@
 .container {
 background-colo
-text-align: center;
+text-align: cent
 }
 .row {
   text-align: center;
@@ -11,5 +11,11 @@ text-align: center;
 .col s6 {
   color: rgb(119, 25, 25);
 }
-
-
+.
+.rowmenu {
+  height: 60px;
+  background-color: grey;
+}
+.footerr {
+  text-align: e;
+}
